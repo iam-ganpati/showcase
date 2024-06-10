@@ -49,7 +49,7 @@ I am a passionate DevOps engineer with experience in various technologies such a
 
 ## Contact
 
-Feel free to reach out if you have any questions or want to collaborate on a project!
+Feel free to reach out if you have any questions or need to discuss on a project!
 
 ---
 
