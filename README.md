@@ -44,8 +44,8 @@ I am a passionate DevOps engineer with experience in various technologies such a
 
 ## Connect with Me
 
-- **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)**
-- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)**
+- **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpati-kolhal/)**
+- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/iam-ganpati)**
 
 ## Contact
 
