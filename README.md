@@ -38,6 +38,10 @@ Welcome to my GitHub profile! Here is a list of my public repositories in the or
     ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)  
    **Build automation tool used primarily for Java projects.**
 
+14. **[Kubernetes](https://github.com/iam-ganpati/ThreeTierAppOn-Kubernetes)**
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+**Deployed a Node.js application (having Frontend, backend and DB) on Kubernetes using Amazon EKS.**
+
 ## About Me
 
 I am a passionate DevOps engineer with experience in various technologies such as Docker, Ansible, Terraform, and Jenkins. I enjoy automating processes and improving workflow efficiency through effective DevOps practices.
